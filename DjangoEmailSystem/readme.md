@@ -13,7 +13,6 @@ Django-based backend API designed to automatically send emails on special occasi
   - [Running the Application](#running-the-application)
   - [API Endpoints](#api-endpoints)
 - [Configuration](#configuration)
-- [Testing](#testing)
 
 
 ## Getting Started
@@ -83,11 +82,3 @@ The Event Email System have a swagger API endpoints:
 ## Configuration
 
 You can configure the Event Email System by modifying the settings in the `settings.py` file. Configure email settings, database settings, and other application-specific configurations here.
-
-## Testing
-
-To run the tests, use the following command:
-
-```bash
-python manage.py test
-```
