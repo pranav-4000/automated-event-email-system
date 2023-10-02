@@ -21,7 +21,7 @@ Django-based backend API designed to automatically send emails on special occasi
 
 Before setting up and running the Event Email System, make sure you have the following prerequisites installed:
 
-- Python 3.x
+- Python 3.9
 - Django (latest version)
 - Django Rest Framework (latest version)
 - Additional Python libraries as required (see `requirements.txt`)
